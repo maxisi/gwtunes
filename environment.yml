@@ -2,8 +2,8 @@ name: gwtunes
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - gwpy
+  - python=3.11
+  - gwpy=3.0.5
   - python-nds2-client
   - numpy
   - h5py
