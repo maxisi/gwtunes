@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - astropy=5.3.2
   - gwpy=3.0.5
   - python-nds2-client
   - numpy
